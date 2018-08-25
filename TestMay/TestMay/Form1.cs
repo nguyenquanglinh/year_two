@@ -23,6 +23,10 @@ namespace TestMay
             if (string.IsNullOrWhiteSpace(cauNoi))
                 MessageBox.Show("chưa nhập gì");
             else
+
+
+
+
                 MessageBox.Show(cauNoi);
             txtCauNoi.Clear();
         }
